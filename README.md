@@ -16,4 +16,4 @@ Weather-Dashboard is an application to check the weather condition in any city.
 
 
 # Screenshot:
-![image](https://user-images.githubusercontent.com/43459199/99926719-9fe14780-2d10-11eb-83a7-394929438b64.png)
+![image](https://user-images.githubusercontent.com/43459199/100170285-49504680-2e93-11eb-8eb3-cff2765b56bf.png)
